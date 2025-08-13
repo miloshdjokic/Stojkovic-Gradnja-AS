@@ -146,3 +146,4 @@ function getItemsCount(itemsCount, maxCount) {
 })(jQuery);
 
 	<!-- Update commit message -->
+

@@ -9,3 +9,4 @@
   border-top: 1px solid $color;
   @include deprecate("The `nav-divider()` mixin", "v4.4.0", "v5", $ignore-warning);
 }
+// update commit message
